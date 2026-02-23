@@ -1,0 +1,5 @@
+{
+  "name": "ZKP Auth System",
+  "description": "A zero-knowledge proof authentication system using public-key cryptography and local private key storage.",
+  "requestFramePermissions": []
+}
